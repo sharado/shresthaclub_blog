@@ -36,9 +36,9 @@ Use this deploy button to get your own copy of the repository.
 
 This button will do the following:
 
-- Connect to your GitHub account and create a new repository with the name you specify
-- Deploy your copy of the repository and setup continuous deployment
-- Send an invite to the email address associated with your Netlify account
+- Connect to your GitHub account and create a new repository with the name you specify.
+- Deploy your copy of the repository and setup continuous deployment.
+- Send an invite to the email address associated with your Netlify account.
 
 Accept the invite, set your password, then navigate to `/admin` on your site to log in.
 
